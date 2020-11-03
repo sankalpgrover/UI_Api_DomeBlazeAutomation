@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="DomeBlaze Automation" verbose="1" >
+
+    <test name="DomeBlaze Api Automation" >
+        <classes>
+            <class name="apitests.PetTest"/>
+
+        </classes>
+    </test>
+
+    <test name="DomeBlaze UI Automation" >
+        <classes>
+            <class name="seleniumtests.DomeBlazeTest"/>
+        </classes>
+    </test>
+
+</suite>
