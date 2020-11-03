@@ -25,5 +25,5 @@ target/
 hs_err_pid*
 
 #IDE Files
-*.idea
+*.idea/
 *.iml
